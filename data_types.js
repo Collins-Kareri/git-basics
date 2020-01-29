@@ -18,6 +18,6 @@ fruit = `Pawpaw`;
 console.log(fruit);
 
 //Const in action
-const PI = 3.142;
-console.log(PI);
+//const PI = 3.142;
+//console.log(PI);
 //Error or warrning upon reassignment of constant
