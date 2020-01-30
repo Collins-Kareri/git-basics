@@ -21,3 +21,14 @@ console.log(fruit);
 //const PI = 3.142;
 //console.log(PI);
 //Error or warrning upon reassignment of constant
+//Understanding object in js
+let person = {
+    name: 'Ronnie Kabala',
+    email: 'Kabalaromi@gmail.com',
+    gender: 'Male',
+    occupation: 'Student Software Engineer'
+};
+//Reference a value in Key-value pair in person object
+let jina = person.name;
+console.log('My name is ' + jina + ' and I am a ' + person.occupation);
+//expressions evaluate to value
